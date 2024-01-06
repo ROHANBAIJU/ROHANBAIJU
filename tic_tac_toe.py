@@ -1,38 +1,36 @@
 import os
 from datetime import datetime, timedelta
 
-# ✅ Get the path of the current script (which is inside ROHANBAIJU/)
+# Path setup
 base_path = os.path.dirname(os.path.abspath(__file__))
-
-# ✅ Make sure fake-code folder is created INSIDE ROHANBAIJU/
 commit_folder = os.path.join(base_path, "fake-code")
 os.makedirs(commit_folder, exist_ok=True)
 
-# ✅ Use start date that begins on a Sunday
+# Start from a Sunday so GitHub grid lines up
 start_date = datetime(2024, 1, 7)
 
-# Tic Tac Toe pattern (3x3)
+# Tic Tac Toe pattern (3x3 grid)
 pattern = [
-    "XOX",
-    "OXO",
-    "XOX"
+    "XOX",  # row 0
+    "OXO",  # row 1
+    "XOX"   # row 2
 ]
 
 commits_per_cell = 20
 
-# Loop through each cell
+# Loop through the 3x3 grid
 for row in range(len(pattern)):
     for col in range(len(pattern[row])):
         if pattern[row][col] == 'X':
-            offset = row * 7 + col
-            commit_date = start_date + timedelta(days=offset)
+            # Each grid cell is 1 day (col) + 7-day step (row)
+            day_offset = col + (row * 7)
+            commit_date = start_date + timedelta(days=day_offset)
 
-            for commit_number in range(commits_per_cell):
+            for n in range(commits_per_cell):
                 file_path = os.path.join(commit_folder, "dummy.txt")
                 with open(file_path, "a") as f:
-                    f.write(f"Commit {commit_number + 1} at {commit_date}\n")
+                    f.write(f"Commit {n+1} at {commit_date}\n")
 
-                # ✅ Run git commands inside the ROHANBAIJU Git repo
                 os.chdir(base_path)
                 os.system("git add .")
                 os.system(f'git commit --date="{commit_date.isoformat()}" -m "Tic Tac Toe move on {commit_date.date()}"')
