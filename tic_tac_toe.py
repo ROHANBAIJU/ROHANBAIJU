@@ -1,29 +1,34 @@
 import os
 from datetime import datetime, timedelta
 
-# Path setup
+# Get the base repo path (ROHANBAIJU)
 base_path = os.path.dirname(os.path.abspath(__file__))
+
+# Ensure 'fake-code' exists inside your repo
 commit_folder = os.path.join(base_path, "fake-code")
 os.makedirs(commit_folder, exist_ok=True)
 
-# Start from a Sunday so GitHub grid lines up
-start_date = datetime(2024, 1, 7)
+# ✅ Set a recent Sunday (adjustable)
+# Today is 2025-07-29, so let's start from 2025-06-29 (Sunday)
+start_date = datetime(2025, 6, 29)
 
-# Tic Tac Toe pattern (3x3 grid)
+# Tic Tac Toe pattern with a gap around (5x5 grid)
 pattern = [
-    "XOX",  # row 0
-    "OXO",  # row 1
-    "XOX"   # row 2
+    "     ",
+    " XOX ",
+    " OXO ",
+    " XOX ",
+    "     "
 ]
 
-commits_per_cell = 20
+# Strong green = more commits
+commits_per_cell = 40
 
-# Loop through the 3x3 grid
 for row in range(len(pattern)):
     for col in range(len(pattern[row])):
         if pattern[row][col] == 'X':
-            # Each grid cell is 1 day (col) + 7-day step (row)
-            day_offset = col + (row * 7)
+            # 1 week = 7 days row offset
+            day_offset = row * 7 + col
             commit_date = start_date + timedelta(days=day_offset)
 
             for n in range(commits_per_cell):
@@ -33,4 +38,4 @@ for row in range(len(pattern)):
 
                 os.chdir(base_path)
                 os.system("git add .")
-                os.system(f'git commit --date="{commit_date.isoformat()}" -m "Tic Tac Toe move on {commit_date.date()}"')
+                os.system(f'git commit --date="{commit_date.isoformat()}" -m "Enhanced Tic Tac Toe {commit_date.date()}"')
