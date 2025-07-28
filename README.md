@@ -1,6 +1,6 @@
 <!-- Banner Image Section -->
 <p align="center">
-  <img src="https://github.com/ROHANBAIJU/ROHANBAIJU/blob/4f15eb9bbc2702d220f6e79d4183022806225fe5/WELCOME!!!.png" alt="Banner" width="100%">
+  <img src="https://github.com/ROHANBAIJU/ROHANBAIJU/blob/a3204438891f1d50ebf5963ea6751fed5778abfa/Welcome.gif" alt="Banner" width="100%">
 </p>
 
 <!-- Intro Section -->
