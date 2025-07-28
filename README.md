@@ -48,8 +48,8 @@
 - ⚡ Fun fact: **A blob of toothpaste is called a "nurdle." And now you'll never un-hear that word.** 🪥😁
 
     </td>
-    <td valign="top" width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBqMXc1eGpvdGFxNXBmc3hnOWF3anAyd2xzdnY3Zm05c2J6eG1iNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" style="max-width: 100%; height: auto;" alt="Funny dev gif" />
+    <td valign="center" width="90%">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBqMXc1eGpvdGFxNXBmc3hnOWF3anAyd2xzdnY3Zm05c2J6eG1iNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" width="400" height="500" alt="Bye bye gif" />
     </td>
   </tr>
 </table>
@@ -125,7 +125,7 @@
 
 <!-- Footer GIF or Funny Ending -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhjb3B3YWc0MmJwOWt6aGx6em4wYXVwZWprc3VoODh4eHEwZ2xmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JhBpEAO8wxCE1Fe/giphy.gif" width="500" alt="Bye bye gif" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhjb3B3YWc0MmJwOWt6aGx6em4wYXVwZWprc3VoODh4eHEwZ2xmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JhBpEAO8wxCE1Fe/giphy.gif" width="350" alt="Bye bye gif" />
   <br>
   <b>Thanks for scrolling! You just unlocked an easter egg. 🥚👾</b>
 </p>
