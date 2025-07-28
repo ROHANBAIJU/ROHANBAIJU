@@ -1,7 +1,7 @@
 <!-- Banner Image Section -->
 <!-- 🖼️ Add your banner image here -->
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" width="100%">
+  <img src="https://github.com/ROHANBAIJU/ROHANBAIJU/blob/4f15eb9bbc2702d220f6e79d4183022806225fe5/WELCOME!!!.png" alt="Banner" width="100%">
 </p>
 
 <!-- Intro Section -->
