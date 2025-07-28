@@ -41,7 +41,7 @@
 - 👯 Looking to collaborate on: **Full Stack Web Dev, DevOps, AI/ML projects.**
 
 - 💬 Ask me about: DONT ASK ME ANYTHING!!  
-  > _Just kidding 😁 — talk to me about tech, games, football, tanks (not a terrorist LOL), web/mobile dev, and history._ 🎮⚽💥
+  > _Just kidding 😁 — talk to me about tech, games, football, wars (Í like guns and tanks not a terrorist LOL), web/mobile dev, and history._ 🎮⚽💥
 
 - 📫 Reach me at: **rohanbaiju210@gmail.com**
 
