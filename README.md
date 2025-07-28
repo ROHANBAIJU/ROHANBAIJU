@@ -125,7 +125,7 @@
 
 <!-- Footer GIF or Funny Ending -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Bye bye gif" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhjb3B3YWc0MmJwOWt6aGx6em4wYXVwZWprc3VoODh4eHEwZ2xmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JhBpEAO8wxCE1Fe/giphy.gif" width="500" alt="Bye bye gif" />
   <br>
   <b>Thanks for scrolling! You just unlocked an easter egg. 🥚👾</b>
 </p>
