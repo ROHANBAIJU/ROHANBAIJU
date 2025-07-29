@@ -137,7 +137,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohanbaiju&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbaiju&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages Chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanbaiju&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanbaiju&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -145,7 +146,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanbaiju&theme=tokyonight" alt="Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanbaiju&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbaiju&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages Chart" />
 </p>
 
 ---
