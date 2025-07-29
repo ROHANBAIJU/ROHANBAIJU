@@ -21,7 +21,7 @@
 <h2 align="center">
   🏆GitHub Trophies</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&title=MultiLanguage,LongTimeUser,Stars,Reviews,Followers,Experience,Repositories,Issues" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&no-bg=true&row=1" alt="GitHub Trophies"/>
 </div>
 
 
