@@ -1,6 +1,6 @@
 <!-- Banner Image Section -->
 <p align="center">
-  <img src="https://github.com/ROHANBAIJU/ROHANBAIJU/blob/a3204438891f1d50ebf5963ea6751fed5778abfa/Welcome.gif" alt="Banner" width="100%">
+  <img src="https://github.com/ROHANBAIJU/ROHANBAIJU/blob/a3204438891f1d50ebf5963ea6751fed5778abfa/Welcome.gif" alt="Banner" width="100%" />
 </p>
 
 <!-- Intro Section -->
@@ -17,14 +17,6 @@
 
 ---
 
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="GitHub Trophies"/>
-</div>
-
----
-
 <!-- About Me Section -->
 ## 🚀 About Me
 
@@ -35,13 +27,13 @@
 - 🔭 I’m currently working on: **Quick Bills** – a versatile mobile app for improving billing for newspaper/milk vendors.  
   > _This repo is private... 'cause it’s TOP SECRET!!_ 😂
 
-- 🌱 Currently learning and building using: **MERN, GraphQL, Angular**, and more.  
+- 🌱 Currently learning and building with: **MERN, GraphQL, Angular**, and more.  
   > _Exploring the ocean of tech 🌊✨_
 
 - 👯 Looking to collaborate on: **Full Stack Web Dev, DevOps, AI/ML projects.**
 
 - 💬 Ask me about: DONT ASK ME ANYTHING!!  
-  > _Just kidding 😁 — talk to me about tech, games, football, wars (Í like guns and tanks not a terrorist LOL), web/mobile dev, and history._ 🎮⚽💥
+  > _Just kidding 😁 — talk to me about tech, games, football, wars (I like guns and tanks not a terrorist LOL), web/mobile dev, and history._ 🎮⚽💥
 
 - 📫 Reach me at: **rohanbaiju210@gmail.com**
 
@@ -49,7 +41,8 @@
 
     </td>
     <td valign="center" width="90%">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBqMXc1eGpvdGFxNXBmc3hnOWF3anAyd2xzdnY3Zm05c2J6eG1iNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" width="400" height="500" alt="Bye bye gif" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBqMXc1eGpvdGFxNXBmc3hnOWF3anAyd2xzdnY3Zm05c2J6eG1iNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif"
+        width="350" height="350" alt="funny gif" />
     </td>
   </tr>
 </table>
@@ -66,14 +59,10 @@
 
 ---
 
-<!-- Tech Stack Section -->
-## 🛠️ Languages and Tools:
+<!-- Tech Stack Section - Modern Style -->
+## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td valign="top">
-      <p align="left">
-        <!-- Programming Languages -->
+<p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -83,8 +72,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-
-  <!-- Web Dev -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -96,14 +83,10 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  
-  <!-- AI/ML/Data -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-  <!-- Platforms/Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -115,42 +98,35 @@
   <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=orange"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/DartPad-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  
-
-   </p>
-    </td>
-    <td valign="center">
-      <p align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
-      </p>
-    </td>
-  </tr>
-</table>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+</p>
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats:
+<!-- GitHub Stats, Analytics, Streaks: Modern & Clean -->
+## 📊 GitHub Stats & Analytics
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rohanbaiju&show_icons=true&theme=tokyonight&hide_border=true&icon_color=58a6ff&title_color=ff79c6&text_color=c0caf5&cache_seconds=1" alt="GitHub Stat" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbaiju&layout=donut&theme=tokyonight&hide_border=true&title_color=ff79c6&text_color=c0caf5&cache_seconds=1" alt="Top Languages Donut Chart" />
-    </td>
-  </tr>
-</table>
-
-<!-- Additional Analytics -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanbaiju&theme=tokyonight&cache_seconds=1" alt="Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanbaiju&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbaiju&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages Chart" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanbaiju&theme=tokyonight&utcOffset=5.5&cache_seconds=1" alt="Productive Time" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanbaiju&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanbaiju&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanbaiju&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
 
+---
+
+<!-- Snake Game Animation -->
+## 🐍 Watch My Contribution Snake!
+<p align="center">
+  <img src="https://github.com/rohanbaiju/rohanbaiju/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
+</p>
 
 ---
 
