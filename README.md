@@ -8,6 +8,7 @@
 <h3 align="center">
   Welcome to my corner of the internet where I build, break, debug and transform my ideas into reality one code at a time.<br>
   Connect with me if you've got mind-blowing ideas you wanna execute and bring to life!! ^_^
+                  ⭐ me if you like my repos and projects
 </h3>
 
 <!-- Profile Views -->
