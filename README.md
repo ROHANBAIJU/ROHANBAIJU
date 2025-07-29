@@ -138,18 +138,19 @@
       <img src="https://github-readme-stats.vercel.app/api?username=rohanbaiju&show_icons=true&theme=tokyonight&hide_border=true&icon_color=58a6ff&title_color=ff79c6&text_color=c0caf5&cache_seconds=1" alt="GitHub Stat" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbaiju&layout=donut&theme=tokyonight&hide_border=true&title_color=ff79c6&text_color=c0caf5" alt="Top Languages Donut Chart" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbaiju&layout=donut&theme=tokyonight&hide_border=true&title_color=ff79c6&text_color=c0caf5&cache_seconds=1" alt="Top Languages Donut Chart" />
     </td>
   </tr>
 </table>
 
 <!-- Additional Analytics -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanbaiju&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanbaiju&theme=tokyonight&cache_seconds=1" alt="Profile Summary" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanbaiju&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanbaiju&theme=tokyonight&utcOffset=5.5&cache_seconds=1" alt="Productive Time" />
 </p>
+
 
 ---
 
