@@ -41,6 +41,7 @@
 
 - 💬 Ask me about: DONT ASK ME ANYTHING!!  
   > _Just kidding 😁 — talk to me about tech, games, football, wars (I like guns and tanks not a terrorist LOL), web/mobile dev, and history._ 🎮⚽💥
+  And I love ONE PIECE!!!
 
 - 📫 Reach me at: **rohanbaiju210@gmail.com**
 
