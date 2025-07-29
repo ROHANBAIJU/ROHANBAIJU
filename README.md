@@ -151,7 +151,7 @@
 <!-- Snake Game Animation -->
 ## 🐍 Watch My Contribution Snake!
 <p align="center">
-  <img src="https://github.com/rohanbaiju/rohanbaiju/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://github.com/ROHANBAIJU/ROHANBAIJU/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
 
 ---
