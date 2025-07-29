@@ -20,7 +20,7 @@ jobs:
             ./github-contribution-grid-snake.svg
           snake_color: "#ae48ca"        # Orange-red, change as you like
           background: "#00000"         # Dark blue/gray background
-          color_dark: "#a6a6a6"         # Dark grid cells
+          color_dark: "#00000"         # Dark grid cells
           color_light: "#0cc0df"        # Highlight color for grid
           stroke: "#9eff1f"             # Outline color for cells
 
