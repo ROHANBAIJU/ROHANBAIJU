@@ -18,6 +18,11 @@ jobs:
           github_user_name: ROHANBAIJU
           outputs: |
             ./github-contribution-grid-snake.svg
+          snake_color: "#FF6951"        # Orange-red, change as you like
+          background: "#1A202C"         # Dark blue/gray background
+          color_dark: "#23272f"         # Dark grid cells
+          color_light: "#FFFBAC"        # Highlight color for grid
+          stroke: "#AA00FF"             # Outline color for cells
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
