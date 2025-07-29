@@ -136,18 +136,18 @@
 ## 📊 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanbaiju&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanbaiju&theme=merko&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanbaiju&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanbaiju&theme=onedark&utcOffset=5.5" alt="Productive Time" />
   
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanbaiju&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanbaiju&theme=onedark&hide_border=true" alt="GitHub Streak" />
  
   
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanbaiju&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanbaiju&theme=gruvbox" alt="Profile Summary" />
   
 </p>
 <p align="center">
