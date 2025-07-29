@@ -15,13 +15,13 @@
   <img src="https://komarev.com/ghpvc/?username=rohanbaiju&label=Profile%20views&color=0e75b6&style=flat" alt="rohanbaiju" />
 </p>
 
-<!-- Trophy Section -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohanbaiju&theme=dracula&margin-w=10&margin-h=15" alt="Trophies" />
-  </a>
-</p>
+---
 
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohanbaiju&row=1&column=3&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
 ---
 
@@ -54,6 +54,8 @@
   </tr>
 </table>
 
+---
+
 <!-- Connect With Me Section -->
 ## 📫 Connect with me:
 <p align="left">
@@ -66,7 +68,7 @@
 
 <!-- Tech Stack Section -->
 ## 🛠️ Languages and Tools:
-<!-- Tech Stack Section -->
+
 <table>
   <tr>
     <td valign="top">
@@ -102,8 +104,6 @@
     </td>
   </tr>
 </table>
-
-    
 
 ---
 
