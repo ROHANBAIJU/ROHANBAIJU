@@ -135,7 +135,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rohanbaiju&show_icons=true&theme=tokyonight&hide_border=true&icon_color=58a6ff&title_color=ff79c6&text_color=c0caf5" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rohanbaiju&show_icons=true&theme=tokyonight&hide_border=true&icon_color=58a6ff&title_color=ff79c6&text_color=c0caf5&cache_seconds=1" alt="GitHub Stat" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbaiju&layout=donut&theme=tokyonight&hide_border=true&title_color=ff79c6&text_color=c0caf5" alt="Top Languages Donut Chart" />
