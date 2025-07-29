@@ -15,6 +15,13 @@
   <img src="https://komarev.com/ghpvc/?username=rohanbaiju&label=Profile%20views&color=0e75b6&style=flat" alt="rohanbaiju" />
 </p>
 
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="GitHub Trophies"/>
+</div>
+
+
 ---
 
 <!-- About Me Section -->
