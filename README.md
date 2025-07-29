@@ -121,7 +121,7 @@
     </td>
     <td valign="top">
       <p align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="coding gif" />
       </p>
     </td>
   </tr>
