@@ -20,7 +20,7 @@
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohanbaiju&row=1&column=3&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="GitHub Trophies"/>
 </div>
 
 ---
