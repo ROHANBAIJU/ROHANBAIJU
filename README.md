@@ -137,11 +137,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohanbaiju&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanbaiju&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanbaiju&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
   
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanbaiju&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanbaiju&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ 
   
 </p>
 
