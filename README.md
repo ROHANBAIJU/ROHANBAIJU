@@ -12,9 +12,9 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Views-12345-yellow?style=for-the-badge" alt="Profile Views" />
-
+  <img src="https://komarev.com/ghpvc/?username=rohanbaiju&label=Profile%20views&color=ffcc00&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
