@@ -13,13 +13,15 @@
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohanbaiju&label=Profile%20views&color=ffcc00&style=for-the-badge" alt="Profile Views" />
+  
 </p>
 
 
 <!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">
+  🏆GitHub Trophies</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&title=MultiLanguage,LongTimeUser,Stars,Reviews,Followers,Experience,Repositories,Issues" alt="GitHub Trophies"/>
 </div>
 
 
