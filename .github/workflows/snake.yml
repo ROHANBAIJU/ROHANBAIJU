@@ -1,0 +1,28 @@
+name: Generate Snake
+
+on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ROHANBAIJU
+          outputs: |
+            ./github-contribution-grid-snake.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
