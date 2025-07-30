@@ -145,10 +145,9 @@
   
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanbaiju&theme=onedark&hide_border=true" alt="GitHub Streak" />
- 
-  
+  <img src="https://streak-stats.demolab.com?user=rohanbaiju&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanbaiju&theme=gruvbox" alt="Profile Summary" />
