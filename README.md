@@ -77,7 +77,14 @@
 
 <table>
   <tr>
-    <td valign="top">
+    
+  <td valign="center">
+      <p align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+      </p>
+    </td>
+
+   <td valign="center">
       <p align="left">
         <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -124,11 +131,6 @@
   
 
    </p>
-    </td>
-    <td valign="center">
-      <p align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
-      </p>
     </td>
   </tr>
 </table>
