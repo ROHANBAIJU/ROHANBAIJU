@@ -34,9 +34,6 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-  
-- 🔭 I’m currently working on: **Quick Bills** – a versatile mobile app for improving billing for newspaper/milk vendors.  
-  > _This repo is private... 'cause it’s TOP SECRET!!_ 😂
 
 - 🌱 Currently learning and building with: **MERN, GraphQL, Angular**, and more.  
   > _Exploring the ocean of tech 🌊✨_
